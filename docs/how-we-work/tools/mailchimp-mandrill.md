@@ -6,7 +6,7 @@ We use MailChimp and its Mandrill add-on to send transactional emails.
 
 ## Communication
 
-* Slack: [#admins-mailchimp](https://18f.slack.com/messages/admins-mailchimp/)
+* Slack: [#admins-mailchimp](https://civicactions.slack.com/messages/admins-mailchimp/)
 
 ## <a id="setup">Setup</a>
 

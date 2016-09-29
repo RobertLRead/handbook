@@ -45,4 +45,4 @@ To be sure you haven't enabled this access accidentally in the past, you can che
 
 #### Still have questions?
 
-Ask in Slack: [#questions](https://18f.slack.com/messages/questions), [#teamops](https://18f.slack.com/messages/teamops), [#it-issues](https://18f.slack.com/messages/it-issues)
+Ask in Slack: [#questions](https://civicactions.slack.com/messages/questions), [#teamops](https://civicactions.slack.com/messages/teamops), [#it-issues](https://18f.slack.com/messages/it-issues)

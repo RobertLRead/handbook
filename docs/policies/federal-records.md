@@ -89,5 +89,5 @@ Further, research indicates most of agencies have *not* yet implemented Capstone
 
 #### Still have questions?
 
-Ask in Slack: [#legalstuff](https://18f.slack.com/messages/legalstuff/) or [#infrastructure](https://18f.slack.com/messages/infrastructure/)
+Ask in Slack: [#legalstuff](https://civicactions.slack.com/messages/legalstuff/) or [#infrastructure](https://civicactions.slack.com/messages/infrastructure/)
 

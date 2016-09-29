@@ -10,7 +10,7 @@ Acano runs in any modern web browser (Chrome, Safari, Firefox). Many of us use t
 
 ## Rules
 
-**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
+**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://civicactions.slack.com/messages/noah/) or [Hillary Hartley](https://civicactions.slack.com/messages/hillary/).
 
 ## Usage
 
@@ -18,13 +18,13 @@ Acano runs in any modern web browser (Chrome, Safari, Firefox). Many of us use t
 
 - **Please mute yourself if you're not speaking.** The mute button appears in the top middle of the meeting window. Alternatively, you can install Steven Reilly's [Chrome extension](https://chrome.google.com/webstore/detail/videochat-auto-mute/hbnakdpkiaeifdfkpipkcnmojleiklme) to auto-mute Acano and when you open it and unmute with the spacebar.
 
-- **Please don't use Acano's text-based chat,** as most participants can't see it and the chat-log remains in the room for the next users to see (if you're using a shared coSpace). Instead, use a Slack channel. We use [#general-talk](https://18f.slack.com/messages/general-talk) for [all-hands meetings](/meetings-and-meeting-tools#all-hands).
+- **Please don't use Acano's text-based chat,** as most participants can't see it and the chat-log remains in the room for the next users to see (if you're using a shared coSpace). Instead, use a Slack channel. We use [#general-talk](https://civicactions.slack.com/messages/general-talk) for [all-hands meetings](/meetings-and-meeting-tools#all-hands).
 
 ## Tips
 
 - **You can turn off your camera** by clicking the camera icon next to your image in the client.
 - **You can switch between Speaker Large and "Brady Bunch" view** in settings (the ellipsis icon in the top right of the meeting window).
-- **You don't need an account to use Acano.** Many of us join Acano as a guest, or reserve a shared coSpace (a "digital conference room"). Have questions or need help? Ask in the [#admins-acano](https://18f.slack.com/messages/admins-acano/) channel in Slack.
+- **You don't need an account to use Acano.** Many of us join Acano as a guest, or reserve a shared coSpace (a "digital conference room"). Have questions or need help? Ask in the [#admins-acano](https://civicactions.slack.com/messages/admins-acano/) channel in Slack.
 - **To figure out who is talking** on a call, click on the person icon on the right hand corner. This shows who is in the call. When someone is speaking you will see an icon next to their name.
 - **Trouble hearing?** Try adjusting your microphone volume in system preferences.
 - **What to do if you're in a room and the mics are out of power or don't work:** You can use the telephone in the room to dial the conference line associated with the Acano room. However, you should first turn down the audio coming into the room by turning the Codec Volume all the way down. It's located in the bottom right of the Video TeleConference (VTC) control unit.
@@ -40,7 +40,7 @@ Confirm via the Google Calendar that room 3380 is booked for the meeting. Please
 
 Please use the "Acano-friendly rooms by location" tab in the [Acano CoSpace Reservations doc](https://docs.google.com/spreadsheets/d/1Y_h9otFtQnuyMZuJCv6705Qb9YrS-QxTvepZGjdSnlw/edit#gid=2072853865).
 
-If you want to test a room that is not listed in that document, or if you’re having trouble using one of these rooms, please post in [#admins-acano](https://18f.slack.com/messages/admins-acano).
+If you want to test a room that is not listed in that document, or if you’re having trouble using one of these rooms, please post in [#admins-acano](https://civicactions.slack.com/messages/admins-acano).
 
 ## Reserve an Acano coSpace
 
@@ -50,7 +50,7 @@ Use [this spreadsheet](https://docs.google.com/spreadsheets/d/1Y_h9otFtQnuyMZuJC
 
 18F's Acano license grants us the ability to create 50 unique accounts. You'll only need an account if you're frequently running meetings with Video TeleConference (VTC) units.
 
-1. Ask [#admins-acano](https://18f.slack.com/messages/admins-acano) for a license.
+1. Ask [#admins-acano](https://civicactions.slack.com/messages/admins-acano) for a license.
 2. Go [here](https://adportal.vnoc1.com/) and try logging in with `first.last@mycospace.com` and the password included in your account creation email ('MyCoSpace.com Account Details').
 3. Change your password.
 4. Set up the security questions you'll need to reset your password.
@@ -115,7 +115,7 @@ You will need an [Acano account](#get-an-acano-account) or have access to someon
 
 1. Find the connection information in the calendar invite.
 1. Make sure you have an [Acano account](#get-an-acano-account).
-2. A few days before the meeting, ask [Leah Gitter](https://18f.slack.com/messages/@leahgitter) to add you to the All-Hands Cospace. This will give you administrator access to the virtual room.
+2. A few days before the meeting, ask [Leah Gitter](https://civicactions.slack.com/messages/@leahgitter) to add you to the All-Hands Cospace. This will give you administrator access to the virtual room.
 3. Launch the Acano app and log in.
 4. Click **coSpaces** and choose **Tuesday All-Hands**.
 5. Click the **Join Call** button in the top right.
